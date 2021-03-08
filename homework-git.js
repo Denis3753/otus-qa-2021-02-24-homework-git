@@ -7,3 +7,9 @@ function firstCommitDevelop(){
     console.log('first commit in develop');
 }
 firstCommitDevelop();
+// change in branch develop
+funciton secondComment(comment){
+    return comment;
+}
+
+console.log(secondComment('второй комментарий в develop'));
