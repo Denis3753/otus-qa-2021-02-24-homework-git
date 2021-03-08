@@ -8,7 +8,7 @@ function firstCommitDevelop(){
 }
 firstCommitDevelop();
 // change in branch develop
-funciton secondComment(comment){
+function secondComment(comment){
     return comment;
 }
 
